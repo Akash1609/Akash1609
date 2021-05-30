@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advance JavaScript**
 
-- 💬 Ask me about **react, java and database**
+- 💬 Ask me about **react, java and frontend**
 
 - 📫 How to reach me **akashsao43@gmail.com**
 
